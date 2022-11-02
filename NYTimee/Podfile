@@ -10,9 +10,6 @@ target 'NYTimee' do
   pod 'RxSwift'
   pod 'RxCocoa'
   
-  # Pod for IQ Keyboard Manager Swift
-  pod 'IQKeyboardManagerSwift'
-  
   # Pod for networking
   pod 'Alamofire'
   
