@@ -49,7 +49,7 @@ i have used MVVM Design pattern with RxSwift and swift generic approach to devel
 * Installation by cloning the repository
 * Go to directory
 * use command + B or Product -> Build to build the project
-* Incase of build fail due to dependency, install SDWebImageView using CocoaPods.
+* Incase of build fail due to dependency, install CocoaPods using pod install in the project directory.
 * Press run icon in Xcode or command + R to run the project on Simulator
 
 &nbsp; 
