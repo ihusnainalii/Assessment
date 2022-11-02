@@ -21,7 +21,7 @@ i have used MVVM Design pattern with RxSwift and swift generic approach to devel
 &nbsp; 
 
 <kbd >
-<img src="https://user-images.githubusercontent.com/15336778/42991237-9fabac38-8c22-11e8-920f-faa03d0d5572.gif">
+<img src="https://github.com/ihusnainalii/NYTimes/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20-%202022-11-02%20at%2015.23.17.gif">
 </kbd>
 
 &nbsp; 
